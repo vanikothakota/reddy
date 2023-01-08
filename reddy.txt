@@ -3,3 +3,5 @@ git is very fast control system
 my name is git
 happy hirthday
 my name is vani
+git is nice tool
+this is task two
