@@ -1,2 +1,4 @@
 hello world
 git is very fast control system
+my name is git
+happy hirthday
